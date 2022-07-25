@@ -1,0 +1,36 @@
+program correto;
+inteiro a, b, c;
+logico d, f, g;
+procedimento teste(a:inteiro);
+inicio
+fim;
+procedimento teste1;
+inicio
+  d := 10; 
+fim;
+{Comentário correto
+Mestres}
+inicio
+  escreva(a);
+  teste(a);
+  a := 20;
+  enquanto (a >= 1 ) faca
+  inicio
+    se (b>10) entao
+    inicio
+    d := verdadeiro;
+    f:= falso;
+    b:= d;
+    //a:= t;
+    fim;
+  fim;
+  se (b>10) entao
+  inicio
+    b:=2;
+    a:=1;
+  fim
+  senao
+  inicio
+  b:=3;
+  fim;
+fim.

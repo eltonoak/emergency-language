@@ -1,0 +1,13 @@
+program correto;
+inteiro a, b, c;
+logico d, e6, f;
+{Comentário correto}
+inicio
+a:=1;
+enquanto (a>1) faca
+inicio
+se (b>10)@
+b:= 2;
+a:= a-1;
+fim
+fim.

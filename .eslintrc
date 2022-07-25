@@ -1,0 +1,11 @@
+{
+  "extends": "node",
+  "rules": {
+    "import/no-commonjs": [
+      "off"
+    ],
+    "class-methods-use-this": [
+      "off"
+    ]
+  }
+}
